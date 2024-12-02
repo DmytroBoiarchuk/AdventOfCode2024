@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce58434d-f553-4bd1-b472-eba03e9b8927" name="Changes" comment="" />
+    <list default="true" id="ce58434d-f553-4bd1-b472-eba03e9b8927" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/initialData.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/initialData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/solutionP1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/solutionP1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/solutionP2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/solutionP2.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,10 +38,12 @@
   "keyToString": {
     "Node.js.index.js.executor": "Run",
     "Node.js.solution.js.executor": "Run",
+    "Node.js.solutionP1.js (1).executor": "Run",
+    "Node.js.solutionP2.js (1).executor": "Run",
     "Node.js.solutionP2.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "javascript.nodejs.core.library.configured.version": "22.11.0",
     "javascript.nodejs.core.library.typings.version": "22.10.1",
     "node.js.detected.package.eslint": "true",
@@ -50,11 +57,17 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.solutionP2.js">
+  <component name="RunManager" selected="Node.js.solutionP2.js (1)">
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="solutionP1.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 2/solutionP1.js" working-dir="$PROJECT_DIR$/Day 2">
+      <method v="2" />
+    </configuration>
     <configuration name="solutionP1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 1/solutionP1.js" working-dir="$PROJECT_DIR$/Day 1">
+      <method v="2" />
+    </configuration>
+    <configuration name="solutionP2.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 2/solutionP2.js" working-dir="$PROJECT_DIR$/Day 2">
       <method v="2" />
     </configuration>
     <configuration name="solutionP2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 1/solutionP2.js" working-dir="$PROJECT_DIR$/Day 1">
@@ -62,6 +75,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.solutionP2.js (1)" />
+        <item itemvalue="Node.js.solutionP1.js (1)" />
         <item itemvalue="Node.js.solutionP2.js" />
         <item itemvalue="Node.js.solutionP1.js" />
         <item itemvalue="Node.js.index.js" />
@@ -83,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733159380715</updated>
-      <workItem from="1733159381743" duration="3487000" />
+      <workItem from="1733159381743" duration="11707000" />
     </task>
     <servers />
   </component>
