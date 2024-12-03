@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce58434d-f553-4bd1-b472-eba03e9b8927" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/AdventOfCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AdventOfCode2024.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2pfa33tPrXZCKdI08UGzbBUCm2L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,7 +36,9 @@
     "Node.js.index.js.executor": "Run",
     "Node.js.solution.js.executor": "Run",
     "Node.js.solutionP1.js (1).executor": "Run",
+    "Node.js.solutionP1.js (2).executor": "Run",
     "Node.js.solutionP2.js (1).executor": "Run",
+    "Node.js.solutionP2.js (2).executor": "Run",
     "Node.js.solutionP2.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -55,17 +56,17 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.solutionP2.js (1)">
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.solutionP2.js (2)">
     <configuration name="solutionP1.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 2/solutionP1.js" working-dir="$PROJECT_DIR$/Day 2">
       <method v="2" />
     </configuration>
-    <configuration name="solutionP1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 1/solutionP1.js" working-dir="$PROJECT_DIR$/Day 1">
+    <configuration name="solutionP1.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 3/solutionP1.js" working-dir="$PROJECT_DIR$/Day 3">
       <method v="2" />
     </configuration>
     <configuration name="solutionP2.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 2/solutionP2.js" working-dir="$PROJECT_DIR$/Day 2">
+      <method v="2" />
+    </configuration>
+    <configuration name="solutionP2.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 3/solutionP2.js" working-dir="$PROJECT_DIR$/Day 3">
       <method v="2" />
     </configuration>
     <configuration name="solutionP2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 1/solutionP2.js" working-dir="$PROJECT_DIR$/Day 1">
@@ -73,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.solutionP2.js (2)" />
+        <item itemvalue="Node.js.solutionP1.js (2)" />
         <item itemvalue="Node.js.solutionP2.js (1)" />
         <item itemvalue="Node.js.solutionP1.js (1)" />
         <item itemvalue="Node.js.solutionP2.js" />
-        <item itemvalue="Node.js.solutionP1.js" />
-        <item itemvalue="Node.js.index.js" />
       </list>
     </recent_temporary>
   </component>
@@ -97,6 +98,8 @@
       <option name="presentableId" value="Default" />
       <updated>1733159380715</updated>
       <workItem from="1733159381743" duration="12539000" />
+      <workItem from="1733172571816" duration="283000" />
+      <workItem from="1733246097157" duration="1974000" />
     </task>
     <servers />
   </component>
