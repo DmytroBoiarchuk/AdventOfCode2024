@@ -37,6 +37,7 @@
     "Node.js.solution.js.executor": "Run",
     "Node.js.solutionP1.js (1).executor": "Run",
     "Node.js.solutionP1.js (2).executor": "Run",
+    "Node.js.solutionP1.js.executor": "Run",
     "Node.js.solutionP2.js (1).executor": "Run",
     "Node.js.solutionP2.js (2).executor": "Run",
     "Node.js.solutionP2.js.executor": "Run",
@@ -45,6 +46,7 @@
     "git-widget-placeholder": "main",
     "javascript.nodejs.core.library.configured.version": "22.11.0",
     "javascript.nodejs.core.library.typings.version": "22.10.1",
+    "last_opened_file_path": "C:/Users/user3/WebstormProjects/AdventOfCode/Day 4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,11 +58,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.solutionP2.js (2)">
-    <configuration name="solutionP1.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 2/solutionP1.js" working-dir="$PROJECT_DIR$/Day 2">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user3\WebstormProjects\AdventOfCode\Day 4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.solutionP2.js">
+    <configuration name="solutionP1.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 3/solutionP1.js" working-dir="$PROJECT_DIR$/Day 3">
       <method v="2" />
     </configuration>
-    <configuration name="solutionP1.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 3/solutionP1.js" working-dir="$PROJECT_DIR$/Day 3">
+    <configuration name="solutionP1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 4/solutionP1.js" working-dir="$PROJECT_DIR$/Day 4">
       <method v="2" />
     </configuration>
     <configuration name="solutionP2.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 2/solutionP2.js" working-dir="$PROJECT_DIR$/Day 2">
@@ -69,16 +76,16 @@
     <configuration name="solutionP2.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 3/solutionP2.js" working-dir="$PROJECT_DIR$/Day 3">
       <method v="2" />
     </configuration>
-    <configuration name="solutionP2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 1/solutionP2.js" working-dir="$PROJECT_DIR$/Day 1">
+    <configuration name="solutionP2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Day 4/solutionP2.js" working-dir="$PROJECT_DIR$/Day 4">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.solutionP2.js" />
+        <item itemvalue="Node.js.solutionP1.js" />
         <item itemvalue="Node.js.solutionP2.js (2)" />
         <item itemvalue="Node.js.solutionP1.js (2)" />
         <item itemvalue="Node.js.solutionP2.js (1)" />
-        <item itemvalue="Node.js.solutionP1.js (1)" />
-        <item itemvalue="Node.js.solutionP2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +106,8 @@
       <updated>1733159380715</updated>
       <workItem from="1733159381743" duration="12539000" />
       <workItem from="1733172571816" duration="283000" />
-      <workItem from="1733246097157" duration="1974000" />
+      <workItem from="1733246097157" duration="2679000" />
+      <workItem from="1733326961235" duration="9372000" />
     </task>
     <servers />
   </component>
